@@ -19,3 +19,4 @@ def directors_totals(nds)
   result = {}
   nil
 end
+pp director_data
